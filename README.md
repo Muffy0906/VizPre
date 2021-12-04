@@ -9,3 +9,5 @@ The project is built on Python and uses Altair for plotting. VizPre uses sklearn
 
 https://user-images.githubusercontent.com/70216262/137614359-3a204780-6f47-40a7-882a-13043ee28a04.mp4
 
+#To run the Project:
+  streamlit run VizPre.py
